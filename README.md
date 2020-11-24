@@ -1,4 +1,3 @@
-```
 ## 💻 Projeto Landing Page Instagram
 
 Projeto desenvolvido durante o **[Digital Innovation](https://digitalinnovation.one/)**.
@@ -6,7 +5,6 @@ Projeto desenvolvido durante o **[Digital Innovation](https://digitalinnovation.
 <p>Tem o Objetivo de criar a landing page do Instagram.</p>
 
 <p align="center">
-  <img alt="Landing" src=".github/Landing.png" width="50%">
+  <img alt="Landing" src="Landing.png" width="50%">
 </p>
-```
 
